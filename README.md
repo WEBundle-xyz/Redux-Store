@@ -10,8 +10,8 @@
 
 [5 - Enhacing the project ](../../tree/81c137e3a1f858bf38f1865354f9d89677e75e0a/)
 
-[6 - Created multiple slices](../../tree/2bf717bdb6637a876c1f88797d51b2d167b1db31/)
+[6 - Created multiple slices ](../../tree/2bf717bdb6637a876c1f88797d51b2d167b1db31/)
 
-[7 - ](../../tree//)
+[7 - Reading and dispatching from a new slice ](../../tree/9945d927f194954d6e7fd493768513541a206ad9/)
 
 [8 - ](../../tree//)

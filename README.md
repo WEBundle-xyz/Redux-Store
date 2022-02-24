@@ -6,4 +6,10 @@
 
 [3 - Multiple state proprieties ](../../tree/94d94a0122dda0f78612e7cb8fe0e70b38812369/)
 
-[4 - Empty ](../../tree//)
+[4 - Implementing the redux toolkit ](../../tree/433d3a50041c164a9449864f98a22384c04ddb21/)
+
+[5 - ](../../tree//)
+
+[6 - ](../../tree//)
+
+[7 - ](../../tree//)

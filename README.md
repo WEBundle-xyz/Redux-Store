@@ -4,6 +4,6 @@
 
 [2 - Using Redux data in react components ](../../tree/857c7e016fd1c3e0154c154c3aeb89ef3d567e30/)
 
-[3 - Empty ](../../tree//)
+[3 - Multiple state proprieties ](../../tree/94d94a0122dda0f78612e7cb8fe0e70b38812369/)
 
 [4 - Empty ](../../tree//)

@@ -10,6 +10,8 @@
 
 [5 - Enhacing the project ](../../tree/81c137e3a1f858bf38f1865354f9d89677e75e0a/)
 
-[6 - ](../../tree//)
+[6 - Created multiple slices](../../tree/2bf717bdb6637a876c1f88797d51b2d167b1db31/)
 
 [7 - ](../../tree//)
+
+[8 - ](../../tree//)
